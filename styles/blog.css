@@ -1,9 +1,4 @@
-div{
-  background-color: tomato;
-  padding: 10px;
-  margin-bottom: 8px;
-}
-img{
-  height: 100px;
-  width: 150px;
+p {
+  color: aqua;
+  background-color: black;
 }

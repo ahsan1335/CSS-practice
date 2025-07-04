@@ -28,3 +28,14 @@ li{
   color: blueviolet;
 
 }
+.images h4{
+  margin: 15px;
+  font-size: 25px;
+  font-style: italic;
+  text-decoration: overline;
+}
+.images img{
+  width: 100px;
+  height: 100px;
+  border: 2px solid brown;
+}

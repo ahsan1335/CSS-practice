@@ -1,4 +1,30 @@
-p {
-  color: aqua;
-  background-color: black;
+* {
+  margin: 0;
+}
+#welcome {
+  margin: 10px;
+  padding: 10px;
+}
+h2 {
+  text-align: center;
+  text-transform: uppercase;
+  color: brown;
+  margin-bottom: 10px;
+}
+#web {
+  background: burlywood;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+}
+h3 {
+  font-size: 25px;
+  text-align: center;
+  border: 5px solid brown;
+  display: inline-block;
+  border-radius: 3px;
+  margin-bottom: 10px;
+}
+li{
+  color: blueviolet;
+
 }
